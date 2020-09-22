@@ -1,8 +1,8 @@
 {
-  "name": "hornet-dashboard",
+  "name": "LP-dashboard",
   "version": "1.0.0",
   "private": true,
-  "description": "HORNET Dashboard",
+  "description": "LP Dashboard",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
